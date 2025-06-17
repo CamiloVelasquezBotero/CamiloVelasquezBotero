@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-This is my zone... 
-Me encanta estar en constante aprendizaje, explorar y aplicar nuevas tecnologias, soy una persona que no se conforma y le encanta estar en constante crecimiento.
+Un poco sobre mi... Me encanta estar en constante aprendizaje, explorar y aplicar nuevas tecnologias, soy una persona que no se conforma y le encanta estar en constante crecimiento.
 
 #### Tengo conocimientos en: 
   ##### FullStack Developer || MERN | Javascript | Python | REACT | Node | CSS | HTML5 | PHP | MySql | Git | GitHub | TailwindCss | Bootstrap | LESS | SASS | Jquery | JUnit | Java.
