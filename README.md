@@ -52,15 +52,11 @@
 
 ###
 
-<p align="left">- 🔭 Hobby: Studying and diving deep into new technologies 💪  <br>- 🌱 Passionate about Cybersecurity (Ethical Hacker) 🌱  <br>- 🌐 Take a look at my website:  https://camilovelasquezbotero.online/portfolio/<br>- 💼 Linkedin: https://www.linkedin.com/in/camilodeveloper/</p>
+<p align="left">- 🔭 Hobby: Studying and diving deep into new technologies 💪  <br>- 🌱 Passionate about Cybersecurity (Ethical Hacker) 🌱  <br>- 🌐 Take a look at my website: camilovelasquezbotero.online/portfolio/<br>- 🌐 Linkedin: linkedin.com/in/camilodeveloper/</p>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdssds/sdssds/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sdssds/sdssds/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sdssds/sdssds/output/pacman-contribution-graph.svg">
-</picture>
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ###
 
