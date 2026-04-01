@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">MERN | PERN | TypeScript | JavaScript | Python | React | Node.js | CSS | HTML5 | PHP | MySQL | PostgreSQL | Git | TailwindCSS | Bootstrap | LESS | SASS</p>
+<p align="left">MERN | PERN | React| NextJs | TypeScript | Javascript | Python | TailwindCSS | PostgreSQL | MySql | PHP | NodeJs | HTML5 | CSS | Git & GitHub | SASS | LESS | Bootstrap | Jquery | JUnit | Java</p>
 
 ###
 
