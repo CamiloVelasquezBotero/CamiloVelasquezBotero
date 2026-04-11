@@ -55,8 +55,14 @@
 <p align="left">- 🔭 Hobby: Studying and diving deep into new technologies 💪  <br>- 🌱 Passionate about Cybersecurity (Ethical Hacker) 🌱  <br>- 🌐 Take a look at my website: https://camilovelasquezbotero.online/portfolio/<br>- 🌐 Linkedin: https://www.linkedin.com/in/camilodeveloper/</p>
 
 ###
-
+<!--  // Snake Animation
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+-->
+
+<!-- Pacman Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="pacman animation"/>
+</p>
 
 ###
 
