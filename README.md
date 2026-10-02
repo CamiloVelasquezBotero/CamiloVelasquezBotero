@@ -8,13 +8,11 @@ I design and develop complete web solutions across frontend, backend, and databa
 
 My background in offensive security sets me apart: I conduct controlled penetration testing following OWASP Top 10 and PTES methodologies, identifying vulnerabilities such as misconfigurations, XSS, CSRF, IDOR, and sensitive data exposure — then translate those findings into more resilient, security-first code. This dual perspective allows me to build applications that are not only functional, but genuinely hardened against real-world threats.
 
-Recent highlights:
+### Recent highlights:
 
  At CyberSector, I contributed to the development of the company's web platform and RedLine, while conducting web pentesting for international clients across Latin America and documenting findings in technical audit reports.
 
 I'm driven by continuous learning and stay actively engaged with both the development and cybersecurity communities.
-
-🌐 My Website: camilovelasquezbotero.vercel.app
 
 ###
 
