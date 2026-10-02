@@ -2,7 +2,19 @@
 
 ###
 
-<p align="left">A little about me…  <br>I love continuous learning, exploring, and applying new technologies.  <br>I’m someone who doesn’t settle and is always focused on personal and professional growth.</p>
+<p align="left">Full-Stack Developer & Penetration Tester passionate about building secure, scalable web applications — combining modern software engineering with an offensive security mindset.
+
+I design and develop complete web solutions across frontend, backend, and databases using React, Next.js, Node.js/Express, and TypeScript, with hands-on experience in state management (Zustand, TanStack Query), authentication (JWT), and API documentation (Swagger/OpenAPI).
+
+My background in offensive security sets me apart: I conduct controlled penetration testing following OWASP Top 10 and PTES methodologies, identifying vulnerabilities such as misconfigurations, XSS, CSRF, IDOR, and sensitive data exposure — then translate those findings into more resilient, security-first code. This dual perspective allows me to build applications that are not only functional, but genuinely hardened against real-world threats.
+
+Recent highlights:
+
+ At CyberSector, I contributed to the development of the company's web platform and RedLine, while conducting web pentesting for international clients across Latin America and documenting findings in technical audit reports.
+
+I'm driven by continuous learning and stay actively engaged with both the development and cybersecurity communities.
+
+🌐 My Website: camilovelasquezbotero.vercel.app
 
 ###
 
@@ -10,7 +22,7 @@
 
 ###
 
-<p align="left">MERN | PERN | React| NextJs | TypeScript | Javascript | Python | TailwindCSS | PostgreSQL | MySql | PHP | NodeJs | HTML5 | CSS | Git & GitHub | SASS | LESS | Bootstrap | Jquery | JUnit | Java</p>
+<p align="left">React · Next.js · MERN | PERN · TypeScript · JavaScript · Node.js/Express · PostgreSQL · MongoDB · MySQL · Python · Tailwind CSS · JWT · Prisma · Docker · Git & GitHub · Burp Suite</p>
 
 ###
 
